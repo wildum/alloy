@@ -19,7 +19,7 @@ body:
       label: Community component maintainer
       description: Are you willing to be the maintainer for this component in Alloy? 
       options:
-        - I agree to be a maintainer for this component.
+        - label: I agree to be a maintainer for this component.
   - type: textarea
     attributes:
       label: Community component description
